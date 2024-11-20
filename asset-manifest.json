@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pallavi-webpage/static/css/main.87fb7bca.css",
+    "main.js": "/pallavi-webpage/static/js/main.5fb62ecb.js",
+    "static/js/453.cee341f9.chunk.js": "/pallavi-webpage/static/js/453.cee341f9.chunk.js",
+    "index.html": "/pallavi-webpage/index.html",
+    "main.87fb7bca.css.map": "/pallavi-webpage/static/css/main.87fb7bca.css.map",
+    "main.5fb62ecb.js.map": "/pallavi-webpage/static/js/main.5fb62ecb.js.map",
+    "453.cee341f9.chunk.js.map": "/pallavi-webpage/static/js/453.cee341f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fb7bca.css",
+    "static/js/main.5fb62ecb.js"
+  ]
+}
